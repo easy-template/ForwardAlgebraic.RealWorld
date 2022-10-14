@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2022-10-14_10-56-11" tag="4_3249404243">
+  <assembly name="ForwardAlgebraic.RealWorld">
+    <class name="ForwardAlgebraic.RealWorld.Time`1" coveredlines="2" coverablelines="2" totallines="12" coveredbranches="2" totalbranches="2" coveredcodeelements="1" totalcodeelements="1" />
+  </assembly>
+  <assembly name="ForwardAlgebraic.RealWorld.Abstractions">
+    <class name="ForwardAlgebraic.RealWorld.Abstractions.HasEffectTime`1" coveredlines="1" coverablelines="1" totallines="15" coveredbranches="2" totalbranches="2" coveredcodeelements="1" totalcodeelements="1" />
+    <class name="ForwardAlgebraic.RealWorld.Abstractions.IEffectTime" coveredlines="1" coverablelines="1" totallines="9" coveredbranches="0" totalbranches="0" coveredcodeelements="1" totalcodeelements="1" />
+  </assembly>
+  <assembly name="ForwardAlgebraic.RealWorld.Time">
+    <class name="ForwardAlgebraic.RealWorld.Time.FakeEffectTime" coveredlines="2" coverablelines="3" totallines="9" coveredbranches="0" totalbranches="0" coveredcodeelements="2" totalcodeelements="3" />
+    <class name="ForwardAlgebraic.RealWorld.Time.HostExtension" coveredlines="7" coverablelines="8" totallines="29" coveredbranches="0" totalbranches="0" coveredcodeelements="1" totalcodeelements="2" />
+    <class name="ForwardAlgebraic.RealWorld.Time.RealEffectTime" coveredlines="0" coverablelines="2" totallines="29" coveredbranches="0" totalbranches="0" coveredcodeelements="0" totalcodeelements="2" />
+  </assembly>
+</coverage>
